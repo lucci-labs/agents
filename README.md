@@ -1,2 +1,5 @@
-# Agent
-Autonomous agents - similar with [eliza](https://github.com/elizaOS/eliza) but in golang.
+# Twitter Agent
+- Post tweets to twitter frequently.
+- Reply all comments to the tweets.
+- Like all comments to the tweets.
+- Reply all mentions to the account.
