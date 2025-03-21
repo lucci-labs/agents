@@ -1,5 +1,5 @@
-# Twitter Agent
-- Post tweets to twitter frequently.
-- Reply all comments to the tweets.
-- Like all comments to the tweets.
-- Reply all mentions to the account.
+# Lucci Agent
+- Post content to social platforms.
+- Monitor social platforms for mentions and comments.
+- Reply to comments and mentions.
+- Interact with timeline's posts
